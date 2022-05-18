@@ -12,7 +12,7 @@
  - You must be in the backend directory to use the makefile.
  - /backend
 ```shell
-make deps               -installs dependencies 
+make                    -installs dependencies 
 
 make database           -cleans and creates a table
 
