@@ -4,7 +4,7 @@
 
 > The following sections explain how to install and run each part of the project.
 >> - The backend was made using Flask 2.0.3. 
->> - The Frontend was made using React.
+>> - The frontend was made using React.
 >> - The database connections were made using SQLite.
 
 
