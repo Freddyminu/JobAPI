@@ -9,6 +9,7 @@
 
 ## Environment
  - To install and run the backend it is recomended to use the virtual environment. 
+ - /JobscoreInternship
  ```
  source backend/venv/bin/activate
  ```
