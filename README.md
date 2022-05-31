@@ -7,6 +7,11 @@
 >> - The frontend was made using React.
 >> - The database connections were made using SQLite.
 
+## Environment
+ - To install and run the backend it is recomended to use the virtual environment. 
+ ```
+ source backend/venv/bin/activate
+ ```
 
 ## Backend
  - You must be in the backend directory to use the makefile.
