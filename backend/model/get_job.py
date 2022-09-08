@@ -1,4 +1,3 @@
-# aqui vc vai fazer sua lógica
 import providers.job as jobprovider
 
 
