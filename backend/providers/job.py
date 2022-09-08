@@ -1,5 +1,3 @@
-# funcoes que acessam o banco e retornam o valor
-# de preferencia não coloque muita logica
 from db import db_connection
 import sys
 import sqlite3 as sql
