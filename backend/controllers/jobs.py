@@ -1,5 +1,3 @@
-# todas as rotas relacionadas a jobs e vai redirecionar para o model especifico
-# (não coloca regra de negocio/lógica)
 from flask import Blueprint
 from model.create_job import create_job
 from model.get_job import get_job
