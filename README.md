@@ -1,6 +1,4 @@
 # Readme 
- - Firstly i'd like to thank jobscore for giving me the chance of showing them what i am capable of! =) <br>
- - I think its important to mention that i've never done anything like this and its the first time that i'm doing multiple things during the creation of this project.
 
 > The following sections explain how to install and run each part of the project.
 >> - The backend was made using Flask 2.0.3. 
